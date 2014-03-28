@@ -1,0 +1,10 @@
+name: DragonBarAPI
+author: klein5
+version: 0.1
+main: de.klein5.Aktu.Main
+commands:
+  addMessage:
+  removeMessage:
+  listMessages:
+  reloadDragonBar:
+  setSekchange:
